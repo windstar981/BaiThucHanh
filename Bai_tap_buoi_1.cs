@@ -129,7 +129,7 @@ namespace buoi1
                             m = 1;
                             y++;
                         }
-                        Console.WriteLine("Ngay tiep theo la: {0}/{1}/{2}", d, m, y);
+                       
                     }
                 }
                 else //nam khong nhuan
@@ -174,9 +174,10 @@ namespace buoi1
                             m = 1;
                             y++;
                         }
-                        Console.WriteLine("Ngay tiep theo la: {0}/{1}/{2}", d, m, y);
+                        
                     }
                 }
+                Console.WriteLine("Ngay tiep theo la: {0}/{1}/{2}", d, m, y);
             }
             else
             {
