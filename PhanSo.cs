@@ -1,3 +1,6 @@
+//tao ten file la PhanSo.cs => copy
+// main tự viết
+//Wind - 61HT
 class PhanSo
     {
         private int tu;
