@@ -1,0 +1,2 @@
+Trong mục bài thực hành này là toàn bộ các bài tập trên lớp cô giao mình sẽ update vào cuối các ngày của những hôm học!!
+Muốn chương trình chạy được ta cần phải tự tạo các project có tên giống như mình đặt ở mỗi đầu class hoặc tự tạo tên cho riêng mình rồi copy từ dưới tên class.
